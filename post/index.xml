@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ケニアのブログ</title>
+    <link>http://kenyak66.github.io/post/</link>
+    <description>Recent content in Posts on ケニアのブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-ja</language>
+    <lastBuildDate>Thu, 30 Sep 2021 14:55:40 +0900</lastBuildDate><atom:link href="http://kenyak66.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoでブログ作ってみました</title>
+      <link>http://kenyak66.github.io/post/first-post/</link>
+      <pubDate>Thu, 30 Sep 2021 14:55:40 +0900</pubDate>
+      
+      <guid>http://kenyak66.github.io/post/first-post/</guid>
+      <description>Hugoでブログを作ってみました
+(上手く行ってるならこのページが見えてるはず……)
+最初はhugoではなくJekyllで作成するつもりでしたが上手くいかず、Hugoで試してみたら成功したのでそのまま使ってます。本当はJekyllで頑張るべきだったかもしれませんが、まぁ結果オーライ。Gitの使い方がわからなかったり、よさそうなテンプレートが見つかったと思っても思い通りにいかなかったりとかなり苦戦しましたがこのように形に出来てよかったです。このブログを作るだけでもそれなりに勉強になったような気がします。
+現在は「m10c」というテーマを使ってますが、今後テーマを変えたりなどするかもしれません。とりあえず大学生活を中心にマイペースに何か書いていこうかなと思ってます。</description>
+    </item>
+    
+  </channel>
+</rss>
