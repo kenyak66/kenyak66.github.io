@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ケニアのブログ</title>
-    <link>http://kenyak66.github.io/categories/</link>
+    <link>https://kenyak66.github.io/categories/</link>
     <description>Recent content in Categories on ケニアのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-ja</language><atom:link href="http://kenyak66.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://kenyak66.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
