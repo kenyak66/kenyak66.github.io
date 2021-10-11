@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アルゴ式 on ケニアのブログ</title>
+    <link>https://kenyak66.github.io/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F/</link>
+    <description>Recent content in アルゴ式 on ケニアのブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 11 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アルゴ式のテスターに選ばれました1</title>
+      <link>https://kenyak66.github.io/post/algomethod1/</link>
+      <pubDate>Mon, 11 Oct 2021 00:05:45 +0900</pubDate>
+      
+      <guid>https://kenyak66.github.io/post/algomethod1/</guid>
+      <description>はじめに https://note.com/sak_algo/n/nf63c98059c5c
+ふーん、無料っぽいしなんか面白そうじゃん？って思って特に先のことを考えずに応募したら選ばれちゃいました。自分は競プロはさぼりがちなのでこれくらいしないとやらなさそうだしちょうどいい機会なのではないでしょうか。
+そしてTwitterをみたら毎日これの取り組みをブログにするという方がいたので、自分もそれをまねして簡単な記録のようなものを付けていこうかなと。
+方針 とりあえず、自分はとにかく続けることを目標にしています。これをこのテスト期間の間だけでも続けられれば自分にとっては大きな自信になるはず……
+10月11日 今日は整数論的アルゴリズム(beta)の素数と素数判定方法を最後までやりました。教科書の内容を応用していく感じですが、自分にはちょうどいい難易度だったかも。やはり解答を見ずに解けるとうれしいですね！</description>
+    </item>
+    
+  </channel>
+</rss>
