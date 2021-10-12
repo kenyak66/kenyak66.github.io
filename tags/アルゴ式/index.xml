@@ -6,7 +6,17 @@
     <description>Recent content in アルゴ式 on ケニアのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 11 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アルゴ式のテスターに選ばれました2</title>
+      <link>https://kenyak66.github.io/post/algomethod2/</link>
+      <pubDate>Tue, 12 Oct 2021 00:05:45 +0900</pubDate>
+      
+      <guid>https://kenyak66.github.io/post/algomethod2/</guid>
+      <description>10月12日 今日は整数論的アルゴリズム(beta)のエラトステネスの篩 (1)を進めました。前回と同様に教科書の応用なのですが、最初はいまいち理解できていなくて時間がかかってしまいました。素数を判定するアルゴリズムは昨日やったやつしかないと思っていたのですが今回のだと計算量が全然違いますね！すごい……でも昨日よりてこずった分時間がかかったため、今日はここまでとします。
+Boot camp for Beginners あと、今更ですがBoot camp for Beginnersの存在を最近知ったのでこれも可能ならば少しずつやっていけたらいいなぁと。アルゴ式でやった問題と似たようなのを見つけるのは難しいですが、何だかんだで量が正義と思ったので。自分はマイペースにEasyからやっていきます。教習所に通い始めた（通い始めてしまった）のもあって流石にそんなに余裕がないんですよね。実際に最初の問題をやってみたら意外と時間がかかってしまいました……のでこれに関しては今日はこんな感じ。</description>
+    </item>
+    
     <item>
       <title>アルゴ式のテスターに選ばれました1</title>
       <link>https://kenyak66.github.io/post/algomethod1/</link>
