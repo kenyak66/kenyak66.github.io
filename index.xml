@@ -6,7 +6,18 @@
     <description>Recent content on ケニアのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アルゴ式のテスターに選ばれました3</title>
+      <link>https://kenyak66.github.io/post/algomethod3/</link>
+      <pubDate>Wed, 13 Oct 2021 00:05:45 +0900</pubDate>
+      
+      <guid>https://kenyak66.github.io/post/algomethod3/</guid>
+      <description>10月13日 今日はエラトステネスの篩(1)のQ5と約数のQ1,2をやりました。エラトステネスの篩(1)Q6が自分にとってはかなり難しく、時間をかけたにもかかわらず結局出来ませんでした。(´;ω;｀)
+自分ではわからないところがでてきたので折角テスターなのに質問しないのはもったいないということでしていきます。
+明日は大学の授業で初めてのプログラミング（Java）の実技試験があったりするので早く寝なきゃああああああああああああああああああああああああああああああああああ（ちなみにそんなに勉強できてない……どしよ）</description>
+    </item>
+    
     <item>
       <title>アルゴ式のテスターに選ばれました2</title>
       <link>https://kenyak66.github.io/post/algomethod2/</link>
