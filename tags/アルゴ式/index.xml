@@ -6,7 +6,18 @@
     <description>Recent content in アルゴ式 on ケニアのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アルゴ式のテスターに選ばれました4</title>
+      <link>https://kenyak66.github.io/post/algomethod4/</link>
+      <pubDate>Thu, 14 Oct 2021 00:05:45 +0900</pubDate>
+      
+      <guid>https://kenyak66.github.io/post/algomethod4/</guid>
+      <description>10月14日 今日は約数のQ2の復習、Q3~4をやりました。昨日わからなかったことを質問してみたら丁寧に答えていただいたので非常に助かりました。聞いてみたら意外と大したことじゃなっかったりして少し恥ずかしかったです笑。もう一度Pythonの基本的なところから振り返った方がいいかも……そして今日はQ5でつまずいてました。最初はrandomでTLEとなり、解説を少し読んで自分なりにやってみてもWAになったりで時間が過ぎてました。もう少しなのでせっかくならもっと自分で考えたいけどどうなんだろ。
+あと、同じ計算量でもwhileよりもforの方が早いのは初めて知りました。調べてみたら他の言語でもそうだったりそうじゃなかったりするらしいですね。
+最初は1日30分くらいの予定でしたが、なんだかんだで1日1時間以上はアルゴ式に使っていました。来週からは教習所のスケジュールはゆるくなるとは言えこのままだとやばい……まぁなんとかなるか！</description>
+    </item>
+    
     <item>
       <title>アルゴ式のテスターに選ばれました3</title>
       <link>https://kenyak66.github.io/post/algomethod3/</link>
