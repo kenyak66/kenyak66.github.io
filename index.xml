@@ -6,7 +6,21 @@
     <description>Recent content on ケニアのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アルゴ式のテスターに選ばれました4</title>
+      <link>https://kenyak66.github.io/post/algomethod5/</link>
+      <pubDate>Fri, 15 Oct 2021 00:05:45 +0900</pubDate>
+      
+      <guid>https://kenyak66.github.io/post/algomethod5/</guid>
+      <description>10月15日 昨日の時点で上手くできなかった約数のQ5をやりました。これも後から考えたら結局大したことなかった感じ。実は、
+unindent does not match any outer indentation level
+このようなエラーに悩まされていて、聞いてみたら「スペース何個か」と「タブ」が混在している可能性があるとのこと。実際に同じものをもう一度最初から書いてみて提出したらACできてたというオチでした。
+とはいえ、この問題に取り組んで勉強になったことがあります。それは、「for i in 配列」と「配列.remove()」は相性が悪いということ。単純に配列の要素を1つ削除するとその後ろの要素の順番がずれてしまうという話です。当たり前のことかもしれませんが、自分がそれに気づいたときはちょっと自分が一つ賢くなったような気分になりました！
+そして、今日は凄く疲れてたのでとっつきやすい論理的思考力を鍛える！文章題 (beta)の最初の部分をとりあえずやってました。
+昨日と今日でそんなに進めませんでしたが、明日はもう少し進められたらいいなぁ……</description>
+    </item>
+    
     <item>
       <title>アルゴ式のテスターに選ばれました4</title>
       <link>https://kenyak66.github.io/post/algomethod4/</link>
