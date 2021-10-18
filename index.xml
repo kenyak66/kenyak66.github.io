@@ -6,7 +6,19 @@
     <description>Recent content on ケニアのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 17 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 23:23:51 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アルゴ式のテスターに選ばれました8</title>
+      <link>https://kenyak66.github.io/post/algomethod8/</link>
+      <pubDate>Mon, 18 Oct 2021 23:23:51 +0900</pubDate>
+      
+      <guid>https://kenyak66.github.io/post/algomethod8/</guid>
+      <description>10月18日 今日は約数を終わらせました。4日目くらいから一気にペースが落ちてますが、今後も1日1,2問くらいになりそうです。
+実は自分、競プロではキホンPythonなのですが、ライブラリを全然使ってません。授業でnumpy使ったり使わなかったりするくらい。（他のライブラリも試しに使ってみたことがあるかないか）なのでmathの使い方をいまいち知らない。でもQ6～Q8の解説を見てmath.sqrt()だけは覚えました。やっぱり折角Pythonを使ってるのでライブラリをもっと使っていくべきなんですかね。
+後期始まったばかりなのに余裕がないのはおかしい……教習所に申し込んだときはこうなるとは思っていなかった……うおぉ
+自分、10月末に修了検定らしいです。大丈夫かなぁ……</description>
+    </item>
+    
     <item>
       <title>アルゴ式のテスターに選ばれました7</title>
       <link>https://kenyak66.github.io/post/algomethod7/</link>
