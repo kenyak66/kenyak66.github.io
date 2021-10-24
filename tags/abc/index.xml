@@ -6,7 +6,26 @@
     <description>Recent content in ABC on ケニアのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 17 Oct 2021 00:05:45 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/tags/abc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Oct 2021 23:23:51 +0900</lastBuildDate><atom:link href="https://kenyak66.github.io/tags/abc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アルゴ式のテスターに選ばれました10</title>
+      <link>https://kenyak66.github.io/post/algomethod10/</link>
+      <pubDate>Sun, 24 Oct 2021 23:23:51 +0900</pubDate>
+      
+      <guid>https://kenyak66.github.io/post/algomethod10/</guid>
+      <description>10月21～24日 二分探索を少しづつやってました。
+ゆっくりすぎない？
+いや、これでいいんです。
+ていうかこれくらいがちょうどいい。 正直なところ整数の問題のアルゴリズムやってた時よりも楽しいかも。なぜか二分探索の問題の方が自分で分かった時の快感が大きいような気がします。二分探索だけの話ではないのですが、全体的に自分くらいのアルゴリズム？なにそれ？くらいの人にはちょうどいい設計になってて個人的にはうれしいですね。
+今くらいのペースでマイペースにやってきます。
+ABC224 悔しい、ここ最近では一番簡単なC問題じゃないかってくらいなはずなのにできてない……今までで一番惜しかったような気がします。掛け算の形に持ってくのはわかったんですけどね、自分は大した人間ではないので失敗から学んでいこうと思います。
+今回の主な失敗として：
+ Bで標準入力がミスってたのに気づかなかった。 Cで試行錯誤してるときに座標を出力するようにしてたのを提出するときに消すのを忘れてた PyPyをいまいち理解できていなくてPyPyで提出するという選択肢が出てこなかった  どれもしょうもないのばっかですが……
+PyPyて何者？早すぎでしょ……同じコードでもPythonとこんなにも差が出るとは……
+こんなにやってて未だにこのレートなの自分しかいないんじゃないですかね。でも最近はなぜかモチベーションは特に下がってない……なんでだ？
+あと、PGBattleに興味があります。今までは知らなかったですが来年は力をつけて友達と参加できたらいいですね！</description>
+    </item>
+    
     <item>
       <title>アルゴ式のテスターに選ばれました7</title>
       <link>https://kenyak66.github.io/post/algomethod7/</link>
